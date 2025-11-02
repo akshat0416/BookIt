@@ -1,4 +1,3 @@
-```markdown
 # 🌍 BookIt – Full Stack Booking Platform
 
 ## 🚀 Live Demo
@@ -19,12 +18,9 @@ This project consists of:
 - A **Node.js + Express** backend hosted on **Render**
 - A **PostgreSQL (Supabase)** database
 
----
-
 ## 🧩 Project Structure
 
 ```
-
 bookit-project/
 ├── backend/
 │   ├── src/
@@ -42,11 +38,7 @@ bookit-project/
 │   ├── package.json
 │   └── .env
 └── README.md
-
-````
-
----
-
+```
 ## ⚙️ Tech Stack
 
 **Frontend:**
