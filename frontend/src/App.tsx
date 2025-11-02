@@ -4,6 +4,7 @@ import Home from './pages/Home';
 import ExperienceDetail from './pages/ExperienceDetail';
 import Checkout from './pages/Checkout';
 import BookingResult from './pages/BookingResult';
+import Experiences from "./pages/Experiences";
 
 const App: React.FC = () => {
   return (
@@ -11,6 +12,7 @@ const App: React.FC = () => {
       <div className="App">
         <Routes>
           <Route path="/" element={<Home />} />
+          <Route path="/experiences" element={<Experiences />} />
           <Route path="/experience/:id" element={<ExperienceDetail />} />
           <Route path="/checkout" element={<Checkout />} />
           <Route path="/booking-result" element={<BookingResult />} />
