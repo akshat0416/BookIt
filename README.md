@@ -234,11 +234,3 @@ This project is created for **educational and demonstration** purposes only.
 **Tools:** React, Node.js, Express, Supabase, Vercel, Render
 
 ```
-
----
-
-✅ You can directly copy the above text into your main `README.md` file.  
-After that, commit and push it to your GitHub repository — your submission will be **complete and reviewer-ready**.
-
-Would you like me to help you write the **short GitHub commit + submission message** (to paste on your submission form)?
-```
