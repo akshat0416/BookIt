@@ -2,7 +2,7 @@
 
 ## 🚀 Live Demo
 
-- **Frontend (Vercel):** [https://book-fkqe5b1z8-akshats-projects-a071b71d.vercel.app/](https://book-fkqe5b1z8-akshats-projects-a071b71d.vercel.app/)
+- **Frontend (Vercel):** [https://book-it-eta-lemon.vercel.app/](https://book-it-eta-lemon.vercel.app/)
 - **Backend (Render):** [https://bookit-mez6.onrender.com](https://bookit-mez6.onrender.com)
 - **API Example Endpoint:** [https://bookit-mez6.onrender.com/api/experiences](https://bookit-mez6.onrender.com/api/experiences)
 
